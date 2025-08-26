@@ -1,0 +1,5 @@
+Customer Churn Analysis Report
+1. Churn Rate: ~26% of customers churned.
+2. Key Insight: Month-to-month contracts have a higher churn rate.
+3. Model Performance: Logistic regression achieved ~80% accuracy.
+4. Recommendation: Offer retention incentives for short-term contracts.
